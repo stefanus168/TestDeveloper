@@ -31,3 +31,4 @@ C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestDeveloper\obj\Debug\n
 C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestDeveloper\obj\Debug\net10.0\TestDeveloper.pdb
 C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestDeveloper\obj\Debug\net10.0\TestDeveloper.genruntimeconfig.cache
 C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestDeveloper\obj\Debug\net10.0\ref\TestDeveloper.dll
+C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestDeveloper\obj\Debug\net10.0\TestDeveloper.sourcelink.json

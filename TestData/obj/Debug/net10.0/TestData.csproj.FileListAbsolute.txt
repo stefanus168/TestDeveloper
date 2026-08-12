@@ -106,3 +106,4 @@ C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestData\obj\Debug\net10.
 C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestData\obj\Debug\net10.0\TestData.pdb
 C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestData\obj\Debug\net10.0\TestData.genruntimeconfig.cache
 C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestData\obj\Debug\net10.0\ref\TestData.dll
+C:\Users\USER\source\repos\TestDeveloper\TestDeveloper\TestData\obj\Debug\net10.0\TestData.sourcelink.json
