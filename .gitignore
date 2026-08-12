@@ -1,27 +1,3 @@
-## Visual Studio / .NET Core
-[Bb]in/
-[Oo]bj/
+bin/
+obj/
 .vs/
-*.user
-*.userosscache
-*.sln.docstates
-.vscode/
-.idea/
-
-## User-specific files
-*.rsuser
-*.suo
-*.user
-*.userhost
-*.sln.docstates
-
-## Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Aa]rm/
-[Aa]rm64/
-build/
