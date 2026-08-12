@@ -124,7 +124,7 @@ public class JadwalProduksiTests
     public void InputNull()
     {
         Assert.Throws<ArgumentNullException>(() =>
-            JadwalProduksi.Seimbangkan(null));
+            JadwalProduksi.Seimbangkan(null!));
     }
 
     [Fact]
